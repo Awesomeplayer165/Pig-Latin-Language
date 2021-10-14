@@ -10,6 +10,8 @@ In google slides, please complete the following steps:
 
 4. Write pseudo-code for how the program will be implemented.
 
+Check out the slides at: https://docs.google.com/presentation/d/16JGRbP9NjzRkyw6yvA3KODqGtyAZIhgf6FQc7C31XTE/edit?usp=sharing
+
 ## Created and Maintained by:
 
 [Jacob Trentini](https://github.com/Awesomeplayer165)
